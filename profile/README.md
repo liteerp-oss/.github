@@ -22,7 +22,7 @@ LiteERP is built with long-term maintainability, clarity, and developer experien
 ## Get Started
 
 👉 Main repository: https://github.com/liteerp-oss/liteerp  
-👉 Documentation (WIP): https://github.com/liteerp-oss/liteerp/wiki
+👉 Documentation: https://github.com/liteerp-oss/docs
 
 ## Contributing
 
